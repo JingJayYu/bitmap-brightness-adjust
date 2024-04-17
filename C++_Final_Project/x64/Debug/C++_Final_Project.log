@@ -1,0 +1,24 @@
+﻿  C++_Final_Project.cpp
+C:\Users\JayYu\Desktop\C++_Final_Project\C++_Final_Project\C++_Final_Project.cpp(258,39): warning C4244: '+=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\JayYu\Desktop\C++_Final_Project\C++_Final_Project\C++_Final_Project.cpp(294,21): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\JayYu\Desktop\C++_Final_Project\C++_Final_Project\C++_Final_Project.cpp(295,21): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\JayYu\Desktop\C++_Final_Project\C++_Final_Project\C++_Final_Project.cpp(296,21): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\JayYu\Desktop\C++_Final_Project\C++_Final_Project\C++_Final_Project.cpp(375,18): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\JayYu\Desktop\C++_Final_Project\C++_Final_Project\C++_Final_Project.cpp(376,18): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\JayYu\Desktop\C++_Final_Project\C++_Final_Project\C++_Final_Project.cpp(377,14): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\JayYu\Desktop\C++_Final_Project\C++_Final_Project\C++_Final_Project.cpp(380,18): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\JayYu\Desktop\C++_Final_Project\C++_Final_Project\C++_Final_Project.cpp(381,18): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\JayYu\Desktop\C++_Final_Project\C++_Final_Project\C++_Final_Project.cpp(382,14): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\JayYu\Desktop\C++_Final_Project\C++_Final_Project\C++_Final_Project.cpp(385,14): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\JayYu\Desktop\C++_Final_Project\C++_Final_Project\C++_Final_Project.cpp(386,18): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\JayYu\Desktop\C++_Final_Project\C++_Final_Project\C++_Final_Project.cpp(387,18): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\JayYu\Desktop\C++_Final_Project\C++_Final_Project\C++_Final_Project.cpp(390,14): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\JayYu\Desktop\C++_Final_Project\C++_Final_Project\C++_Final_Project.cpp(391,18): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\JayYu\Desktop\C++_Final_Project\C++_Final_Project\C++_Final_Project.cpp(392,18): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\JayYu\Desktop\C++_Final_Project\C++_Final_Project\C++_Final_Project.cpp(395,18): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\JayYu\Desktop\C++_Final_Project\C++_Final_Project\C++_Final_Project.cpp(396,14): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\JayYu\Desktop\C++_Final_Project\C++_Final_Project\C++_Final_Project.cpp(397,18): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\JayYu\Desktop\C++_Final_Project\C++_Final_Project\C++_Final_Project.cpp(400,18): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\JayYu\Desktop\C++_Final_Project\C++_Final_Project\C++_Final_Project.cpp(401,14): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\JayYu\Desktop\C++_Final_Project\C++_Final_Project\C++_Final_Project.cpp(402,18): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+  C++_Final_Project.vcxproj -> C:\Users\JayYu\Desktop\C++_Final_Project\x64\Debug\C++_Final_Project.exe
